@@ -1,6 +1,3 @@
-
-Here's a sample README file for your Hibernate project:
-
 Amazon Customer Management System (Hibernate Project)
 Description
 This project is designed to manage customer data for an Amazon-like platform using Hibernate ORM. It performs CRUD (Create, Read, Update, Delete) operations on customer information, integrating Hibernate with MySQL for efficient data management.
@@ -54,4 +51,3 @@ Open a pull request.
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README includes project setup instructions, technologies used, and how others can contribute i
